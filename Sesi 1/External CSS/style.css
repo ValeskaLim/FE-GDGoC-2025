@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blue;
+}
+
+#name {
+    text-decoration: underline;
+    color:green;
+}
+
+.h3 {
+    background-color: pink;
+}
+
+p {
+    font-weight: bold;
+}
+
+.button-container {
+    font-size: 20px;
+}
+
+.my-button {
+    padding: 10px;
+    font-size: 2rem;
+    background-color: green;
+    border-radius: 10px;
+}
